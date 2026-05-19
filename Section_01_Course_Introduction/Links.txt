@@ -1,0 +1,8 @@
+Docker
+https://docs.docker.com/desktop/setup/install/windows-install/
+
+UV
+docs.astral.sh/uv/
+
+Data Project Hunt
+https://www.dataprojecthunt.com/
