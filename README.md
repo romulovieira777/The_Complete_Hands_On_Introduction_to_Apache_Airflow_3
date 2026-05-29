@@ -3,5 +3,6 @@
 ### 💥 Topics covered during the course were 🚀
 - [Section 01 - Course Introduction](https://github.com/romulovieira777/The_Complete_Hands_On_Introduction_to_Apache_Airflow_3/tree/main/Section_01_Course_Introduction)
 - [Section 02 - Getting Started with Airflow](https://github.com/romulovieira777/The_Complete_Hands_On_Introduction_to_Apache_Airflow_3/tree/main/Section_02_Getting_Started_With_Airflow)
+- [Section 03 - The Importante Views of the Airflow UI]()
 
 Link to the course: [Udemy](https://www.udemy.com/course/the-complete-hands-on-course-to-master-apache-airflow/)
