@@ -4,5 +4,6 @@
 - [Section 01 - Course Introduction](https://github.com/romulovieira777/The_Complete_Hands_On_Introduction_to_Apache_Airflow_3/tree/main/Section_01_Course_Introduction)
 - [Section 02 - Getting Started with Airflow](https://github.com/romulovieira777/The_Complete_Hands_On_Introduction_to_Apache_Airflow_3/tree/main/Section_02_Getting_Started_With_Airflow)
 - [Section 03 - The Importante Views of the Airflow UI](https://github.com/romulovieira777/The_Complete_Hands_On_Introduction_to_Apache_Airflow_3/tree/main/Section_03_The_Importante_Views_Of_The_Airflow_UI)
+- [Section 04 - Coding Your First Data Pipeline with Airflow]()
 
 Link to the course: [Udemy](https://www.udemy.com/course/the-complete-hands-on-course-to-master-apache-airflow/)
