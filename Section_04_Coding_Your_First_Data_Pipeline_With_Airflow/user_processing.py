@@ -46,6 +46,7 @@ def user_processing():
     @task
     def process_user(user_info):
         import csv
+        from datetime import datetime
 
         user_info = {
             "id": "123",
@@ -53,7 +54,7 @@ def user_processing():
             "lastname": "Doe",
             "email": "john.doe@example.com",
         }
-
+        user_info["created_at"] = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
         with open("/tmp/user_info.csv", "w", newline="") as f:
             writer = csv.DictWriter(f, fieldnames=user_info.keys())
             writer.writeheader()
@@ -67,9 +68,6 @@ def user_processing():
             filename="/tmp/user_info.csv"
         )
 
-    fake_user = is_api_available()
-    user_info = extract_user(fake_user)
-    process_user(user_info)
-    store_user()
+    process_user(extract_user(create_table >> is_api_available())) >> store_user()
 
 user_processing()
