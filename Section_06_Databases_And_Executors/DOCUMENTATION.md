@@ -1,5 +1,5 @@
 # 📦 Section 06 - Databases and Executors
-
+ 
 ## 🇧🇷 PORTUGUÊS (Brasil)
 
 ### Visão Geral
