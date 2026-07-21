@@ -7,6 +7,7 @@
 - [Section 04 - Coding Your First Data Pipeline with Airflow](https://github.com/romulovieira777/The_Complete_Hands_On_Introduction_to_Apache_Airflow_3/tree/main/Section_04_Coding_Your_First_Data_Pipeline_With_Airflow)
 - [Section 05 - Creating DAGs with Assets!](https://github.com/romulovieira777/The_Complete_Hands_On_Introduction_to_Apache_Airflow_3/tree/main/Section_05_Creating_Dags_With_Assets!)
 - [Section 06 - Databases and Executors](https://github.com/romulovieira777/The_Complete_Hands_On_Introduction_to_Apache_Airflow_3/tree/main/Section_06_Databases_And_Executors)
-- [Section 07 - Implementing Advanced Concepts in Airflow](https://github.com/romulovieira777/The_Complete_Hands_On_Introduction_to_Apache_Airflow_3/tree/main/Section_07_Implementing_Advanced_Concepts_In_Airflow)  
+- [Section 07 - Implementing Advanced Concepts in Airflow](https://github.com/romulovieira777/The_Complete_Hands_On_Introduction_to_Apache_Airflow_3/tree/main/Section_07_Implementing_Advanced_Concepts_In_Airflow)
+- [Section 08 - Create a New Decorator and Airflow Provider to Run SQL Queries](https://github.com/romulovieira777/The_Complete_Hands_On_Introduction_to_Apache_Airflow_3/tree/main/Section_08_Create_A_New_Decorator_And_Airflow_Provider_To_Run_SQL_Queries)
 
 Link to the course: [Udemy](https://www.udemy.com/course/the-complete-hands-on-course-to-master-apache-airflow/)
